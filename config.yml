@@ -1,0 +1,19 @@
+client_secret: 
+debug: false
+disable_auto_update: false
+disable_command_execute: false
+disable_force_update: false
+disable_nat: false
+disable_send_query: false
+gpu: false
+insecure_tls: false
+ip_report_period: 1800
+report_delay: 1
+server: 
+skip_connection_count: false
+skip_procs_count: false
+temperature: false
+tls: false
+use_gitee_to_upgrade: false
+use_ipv6_country_code: false
+uuid: 
